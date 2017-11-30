@@ -7,6 +7,6 @@ import { TestComponent } from './test.component';
     CommonModule
   ],
   exports:[TestComponent],
-  declarations: []
+  declarations: [TestComponent]
 })
 export class TestLibModule { }
